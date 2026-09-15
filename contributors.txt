@@ -1,0 +1,10 @@
+1002|Ridita Paul Sneha|ECE|01404840262|ridita@gmail.com|31.68|158|02:35|23:50|Not Eligible
+1003|Shajid Hasan Pranto|ECE|01785035491|prantosha@gmail.com|14.00|70|04:30|18:30|Not Eligible
+1004|Sara Hossain|MCJ|01937671429|sarahos@gmail.com|21.43|107|02:30|23:56|Not Eligible
+1005|Aishwariya Rai|MCJ|01404540261|aish@yahoo.com|36.63|183|01:10|23:45|Not Eligible
+1006|Katrina Kaif|BBT|0175035429|Katrina@gmail.com|15.45|77|08:13|23:40|Not Eligible
+1007|Siddhart Malhotra|BBA|01884352515|sid@yahoo.com|63.75|318|01:30|23:56|Eligible
+1008|Marzia Islam Priyoti|ECE|01715034529|marzia@gmail.com|39.12|195|03:12|23:24|Not Eligible
+1009|Rodoshi Hossain|BBA|01883472151|rodoshih@gmail.com|0.00|0|N/A|N/A|Not Eligible
+1010|Bela Bose|ECE|01490709023|bela@yahoo.com|25.78|128|03:25|23:45|Not Eligible
+101|ahnaf islam|ece|01314561718|shahicd@gmail.com|0.00|0|N/A|N/A|Not Eligible
